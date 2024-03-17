@@ -6,10 +6,10 @@
 </p>
 
 
-<div style="display: flex; gap: 20px;">
+<p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=AbisAbz&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbisAbz&langs_count=6&layout=compact&card_width=400&theme=radical&hide=python,ruby&include_repo=React" />
-</div>
+</p>
+
 
 
 
