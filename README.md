@@ -5,6 +5,7 @@
  Passionate about crafting immersive and dynamic web applications using the powerful combination of MongoDB, Express.js, React.js, and Node.js (MERN stack). A seasoned problem-solver, adept at architecting elegant solutions for complex challenges. Devoted to continuous learning in the rapidly evolving landscape of web development. Let's collaborate to transform innovative ideas into digital marvels!
 </p>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbisAbz&show_icons=true&theme=radical)
 
 
 # ![Snake animation](/github-grid-snake.svg)
