@@ -13,12 +13,23 @@
 ## 🌐 Socials:
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abis_abz)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abis-v)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abisabz529)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/abisabz/)
-  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23641121/abis-v)
+  <a href="https://instagram.com/abis_abz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/abis-v">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.hackerrank.com/abisabz529">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://leetcode.com/abisabz/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://stackoverflow.com/users/23641121/abis-v">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </div>
+
 
 
 
