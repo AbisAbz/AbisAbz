@@ -10,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbisAbz&show_icons=true&theme=radical" alt="Your GitHub stats" />
 </p>
 
+## 🌐 Socials:
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abis_abz ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abis-v) 
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
