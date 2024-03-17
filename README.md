@@ -1,5 +1,5 @@
 <h1 align="center" >Hi , I'm Abis V
-<img align="right" alt="Coding" width="400" src="https://www.wallpaperflare.com/macbook-pro-computer-laptop-coffee-programming-web-development-wallpaper-grp">
+<img align="right" alt="Coding" width="400" src="https://www.wallpaperflare.com/skeleton-head-technology-bone-digital-art-human-artwork-wallpaper-tglpj">
 <h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://www.instagram.com/abis_abz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedsifankp" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abis-v-9ba730267/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abis-v-9ba730267/" height="30" width="30" /></a>
