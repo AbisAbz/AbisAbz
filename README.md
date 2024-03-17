@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbisAbz&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbisAbz&include_repo=React" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbisAbz&hide=python,ruby&include_repo=React" />
 </p>
 
   
