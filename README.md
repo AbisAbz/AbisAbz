@@ -4,11 +4,10 @@
 <p align="center" style="color: #333; font-family: 'Times New Roman', Times, serif; max-width: 600px; margin: auto; line-height: 1.6;">
  Passionate about crafting immersive and dynamic web applications using the powerful combination of MongoDB, Express.js, React.js, and Node.js (MERN stack). A seasoned problem-solver, adept at architecting elegant solutions for complex challenges. Devoted to continuous learning in the rapidly evolving landscape of web development. Let's collaborate to transform innovative ideas into digital marvels!
 </p>
-<div style="display: flex; justify-content: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=AbisAbz&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  </div>
-</div>
+
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbisAbz&show_icons=true&theme=radical)
+
+
 
 
 
