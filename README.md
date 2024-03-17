@@ -32,6 +32,9 @@
   </p>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbisAbz&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
