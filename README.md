@@ -54,6 +54,11 @@
   </p>
 </div>
 
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbisAbz&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
